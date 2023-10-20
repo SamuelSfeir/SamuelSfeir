@@ -8,6 +8,7 @@
 
 ### 💼 Profissão:
 - Estudante na [Trybe](https://www.betrybe.com/) para ser um Desenvolvedor Web - Full Stack
+- Empreendedor
 
 ### 💻 Habilidades e Interesses:
 - Desenvolvimento Web Full Stack
