@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hello, world! 👋</h1>
   <p>Bem-vindo ao meu perfil do GitHub! Meu nome é Samuel Sfeir e sou um entusiasta de programação em constante evolução, atualmente estudando na Trybe e em busca da minha primeira oportunidade na área de tecnologia.
-  A título de curiosidade, sou empreendor também e pussuo um e-commerce
+  A título de curiosidade, sou empreendedor também e pussuo um e-commerce
 </div>
 
 
@@ -13,18 +13,10 @@
 - Desenvolvimento Web Full Stack
 - HTML, CSS, JavaScript
 - Python
-- Aprendizado Contínuo (Kaizen)
-
-### 🏋️ Hobbies:
-- Academia
-- Explorar novas culinárias
-- Programação (claro!)
+- Aprendizado Contínuo
 
 ### 📚 Idade:
 - 24 anos
-
-### 🐾 Animais de Estimação:
-- 3 lindos pinchers (terríveis)
 
 ### 📫 Como me encontrar:
 - [LinkedIn](https://www.linkedin.com/in/samuel-sfeir-434152278/)
