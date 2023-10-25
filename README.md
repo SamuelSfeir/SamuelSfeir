@@ -14,7 +14,6 @@
 - Desenvolvimento Web Full Stack
 - HTML, CSS, JavaScript
 - Python
-- Aprendizado Contínuo
 
 ### 📚 Idade:
 - 24 anos
