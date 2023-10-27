@@ -22,6 +22,7 @@
 - [LinkedIn](https://www.linkedin.com/in/samuel-sfeir-434152278/)
 - [E-mail](mailto:samuel1808@hotmail.com)
 
+
 <div align="center">
   <p>Estou animado para aprender, colaborar e compartilhar conhecimento com a comunidade GitHub. Se você quiser saber mais sobre mim ou tiver alguma pergunta, sinta-se à vontade para entrar em contato. Vamos fazer coisas incríveis juntos!</p>
 </div>
