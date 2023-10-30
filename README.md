@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hello, world! 👋</h1>
-  <p>Bem-vindo ao meu perfil do GitHub! Meu nome é Samuel Sfeir e sou um entusiasta de programação em constante evolução, atualmente estudando na Trybe e em busca da minha primeira oportunidade na área de tecnologia.
+  <p>Oieeee! Bem-vindo ao meu perfil do GitHub! Meu nome é Samuel Sfeir e sou um entusiasta de programação em constante evolução, atualmente estudando na Trybe e em busca da minha primeira oportunidade na área de tecnologia.
   A título de curiosidade, sou empreendedor também e pussuo um e-commerce
 </div>
 
