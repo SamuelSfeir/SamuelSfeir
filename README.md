@@ -20,6 +20,7 @@
 
 ### 📫 Como me encontrar:
 - [LinkedIn](https://www.linkedin.com/in/samuel-sfeir-434152278/)
+  
 - [E-mail](mailto:samuel1808@hotmail.com)
 
 
