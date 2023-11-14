@@ -14,7 +14,7 @@ Meu nome é Samuel e atualmente estou em transição de carreira. Estudando na T
 ### 💼 Profissão:
 - Estudante na [Trybe](https://www.betrybe.com/) para ser um Desenvolvedor Web - Full Stack
   
-- Empreendedor
+- Empreendedor (Tenho um e-commerce)
 
 ### 💻 Habilidades e Interesses:
 - Desenvolvimento Web Full Stack
