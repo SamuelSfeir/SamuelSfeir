@@ -19,7 +19,7 @@ Meu nome é Samuel e atualmente estou em transição de carreira. Estudando na T
 ### 💻 Habilidades e Interesses:
 - Desenvolvimento Web Full Stack
   
-- HTML, CSS, JavaScript
+- HTML, CSS, JavaScript (React)
   
 - Python
 
