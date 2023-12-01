@@ -20,8 +20,6 @@ Meu nome é Samuel e atualmente estou em transição de carreira. Estudando na T
 - Desenvolvimento Web Full Stack
   
 - HTML, CSS, JavaScript (React)
-  
-- Python
 
 ### 📚 Idade:
 - 24 anos
