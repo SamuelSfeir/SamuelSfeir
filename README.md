@@ -22,7 +22,7 @@ Meu nome é Samuel e atualmente estou em transição de carreira. Estudando na T
 - HTML, CSS, JavaScript (React)
 
 ### 📚 Idade:
-- 24 anos (até o dia 18 de agosto do ano que vem, rsrs.)
+- 24 anos
 
 ### 📫 Como me encontrar:
 - [LinkedIn](https://www.linkedin.com/in/samuel-sfeir-434152278/)
