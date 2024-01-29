@@ -1,5 +1,7 @@
 <img align="right" src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=34&color=4db5ff&width=1109&height=113&lines=%7B+Hello!+How+are+you?+My+name+is+Samuel%20=)%EF%B8%8F+%7D;%7B+Welcome+to+my+profile+%7D;%7B+Take+a+look+at+my+portfolio%20%E2%9D%A4%EF%B8%8F%EF%B8%8F+%7D">
 <br/>
+
+
 <div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=samuelsfeir&title_color=4db5ff&icon_color=4db5ff&text_color=fff&bg_color=1f1f38&border_color=4db5ff&show_icons=true"/>
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelsfeir&layout=compact&langs_count=7&title_color=4db5ff&icon_color=4db5ff&text_color=fff&bg_color=1f1f38&border_color=4db5ff&show_icons=true"/>
